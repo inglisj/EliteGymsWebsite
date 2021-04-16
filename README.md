@@ -43,7 +43,11 @@ The Roboto font will be the main font used throughout the site with sans serif a
 The website contains a logo that was designed and created using https://www.canva.com/ The logo will act as the main image of the homepage on the site in the form of a hero image.
 ### Wireframes 
 Wireframes for the designing of the project were built using balsamiq cloud. https://balsamiq.com/wireframes/cloud/
-[Elite Gym Homepage] (https://balsamiq.cloud/ssim83c/prntpcj/r9C6D) [Elite Gym About] (https://balsamiq.cloud/ssim83c/prntpcj/r3AC0) [Elite Gym Services] (https://balsamiq.cloud/ssim83c/prntpcj/rE336)
+Home Page Wireframe - View 
+
+Membership Wireframe - View 
+
+About Us Wireframe - View 
 ## Features Responsive 
 on all devices Interactive designs on elements
 ### Technologies Used
