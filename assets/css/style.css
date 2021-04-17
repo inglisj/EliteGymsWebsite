@@ -7,10 +7,12 @@
 }
 
 #logo {
-    height: 150px;
+    padding: 0px;
+    margin: 0px;
     width: 150px;
+    height: 100px;
     float: left;
-
+    display: inline-block;
 }
 
 body {
@@ -45,4 +47,6 @@ h2 {
     height: 600px;
     width: 100%;
     background-image: url("https://image.freepik.com/free-photo/strong-wet-woman-posing-during-jump_7502-7078.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
 }
