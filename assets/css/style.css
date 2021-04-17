@@ -35,3 +35,8 @@ h2 {
     margin-right: 30px;
 
 }
+
+#logo,
+#menu {
+    line-height: 75px;
+}
