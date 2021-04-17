@@ -6,7 +6,32 @@
     border: 0;
 }
 
-.logo {
+#logo {
     height: 150px;
     width: 150px;
+    float: left;
+
+}
+
+body {
+    font-family: Exo;
+    color: #777777;
+}
+
+h2 {
+    font-family: Roboto;
+    color: blue;
+}
+
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4px;
+
+}
+
+#menu li {
+    float: right;
+    margin-right: 30px;
+
 }
