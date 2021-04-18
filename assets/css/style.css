@@ -43,7 +43,7 @@ h2 {
     line-height: 75px;
 }
 
-#HeroImage {
+.HeroImage {
     height: 600px;
     width: 100%;
     background-image: url("https://image.freepik.com/free-photo/strong-wet-woman-posing-during-jump_7502-7078.jpg");
