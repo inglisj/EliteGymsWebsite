@@ -1,13 +1,17 @@
 # Elite Gym Website 
 
 ## Introduction
-Elite Gyms is a fitness center delivering high end services and facilities in the health & fitness sector. The gyms focus is to provide fitness programs and assist in achieving fitness goals of its customers. The project entails a responsive website for; Elite Gyms. The website is required to attract new customers to sign up for membership to the gym and also to provide information to existing members, therefore the website will be multi purposeful both to sign up new members but also assist existing members.
+Elite Gyms is a fitness center delivering high end services and facilities in the health & fitness sector. The gyms focus is to provide fitness programs and assist in achieving fitness goals of its customers. The project entails a responsive website for, Elite Gyms. The website purpose is to attract new customers and also provide information to existing members. The site is marketed at potential new members to sign up for membership to the gym by choosing one of the membership option choices. The website is multi purposeful for both new and existing members.
+
 ## UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-•	As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+
+The UX process established the main purposes of the site and the users who will use and visit the site. Based on this identification User stories were developed with a general structure of the following: The user type, performing action, desired goal. 
+
+The design process was iterative with basic hand written designs initially mocked up to develop the overall structure and design of the website. Wireframes were further developed in alignment with the user stories to capture the actions and desired goals for the user groups. 
+
 ## (UX) User Experience 
+
 ### User Stories
 1.	Site Owners Goals 
 
@@ -36,11 +40,16 @@ d.	As a member, I want to learn of any updates and changes to the gym and facili
 
 ## Design 
 ### Colour Scheme 
-The three main colours used for Elite Gyms is Slate grey, White, Orange. The website design is focused on a minimal and simplistic feel
+The three main colours used for Elite Gyms is Slate grey, White, Orange. The website design is focused on a minimal and simplistic feel. 
+The colours chosen were inline with the company logo developed. 
+
 ### Typography 
-The Roboto font will be the main font used throughout the site with sans serif as the back up if for any reason the main font does not load successfully. *The Exo font will be used for headings
+The Roboto font will be the main font used throughout the site with sans serif as the back up if for any reason the main font does not load successfully. 
+The Exo font will be used for headings
+
 ### Imagery 
-The website contains a logo that was designed and created using https://www.canva.com/ The logo will act as the main image of the homepage on the site in the form of a hero image.
+The website contains a logo that was designed and created using https://www.canva.com/ The logo is a href featuring on the header clickable to Home page. 
+
 ### Wireframes 
 Wireframes for the designing of the project were built using balsamiq cloud. https://balsamiq.com/wireframes/cloud/
 Home Page Wireframe - [View] (https://github.com/inglisj/EliteGymsWebsite)
@@ -48,13 +57,19 @@ Home Page Wireframe - [View] (https://github.com/inglisj/EliteGymsWebsite)
 Membership Wireframe - [View] (https://github.com/inglisj/EliteGymsWebsite)
 
 About Us Wireframe - [View](https://github.com/inglisj/EliteGymsWebsite) 
+
 ## Features Responsive 
 on all devices Interactive designs on elements
+
 ### Technologies Used
 Languages Used 
 HTML5, CSS3
+
 ### Frameworks, Libraries & Programs Used
-https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css https://kit.fontawesome.com/3db2fbda72.js Fontawesome was imported to add interactive desgin elements Google Fonts imported to the style sheet. Git was used at the development application and version control Github used to stor projects once pushed to GitHub repository balsamiq was used to build wireframes
+https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css https://kit.fontawesome.com/3db2fbda72.js 
+Fontawesome was imported to add interactive desgin elements Google Fonts imported to the style sheet. 
+Gitpod was used at the development application and version control Github used to stor projects once pushed to GitHub repository 
+Balsamiq cloud was used to build wireframes
 
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
