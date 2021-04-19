@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&family=Roboto:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#logo {
+    padding: 0px;
+    margin: 0px;
+    width: 150px;
+    height: 100px;
+    float: left;
+    display: inline-block;
+}
+
+body {
+    font-family: Exo;
+    color: #777777;
+}
+
+h2 {
+    font-family: Roboto;
+    color: darkturquoise;
+}
+
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4px;
+
+}
+
+#menu li {
+    float: right;
+    margin-right: 30px;
+
+}
+
+#logo,
+#menu {
+    line-height: 75px;
+}
+
+
+#cover-text {
+    font-size: 130%;
+    font-family: Exo;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 300px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    position: absolute;
+}
+
+#cover-text,
+#cover-text h2 {
+    color: #ffffff;
+}
+
+.jumbotron {
+    background-image: url("workspace/EliteGymsWebsite/assets/images/strong-wet-woman-posing-during-jump.jpg");
+    background-size: cover;
+
+}
