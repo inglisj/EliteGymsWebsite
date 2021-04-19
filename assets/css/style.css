@@ -64,5 +64,15 @@ h2 {
 .jumbotron {
     background-image: url("workspace/EliteGymsWebsite/assets/images/strong-wet-woman-posing-during-jump.jpg");
     background-size: cover;
+}
 
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
 }
