@@ -68,3 +68,9 @@ h2 {
 #cover-text h2 {
     color: #ffffff;
 }
+
+.jumbotron {
+    background-image: url("workspace/EliteGymsWebsite/assets/images/strong-wet-woman-posing-during-jump.jpg");
+    background-size: cover;
+
+}
