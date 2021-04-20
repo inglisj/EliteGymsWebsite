@@ -74,6 +74,12 @@ Containers used to allow responsive design.
 ### Technologies Used
 Languages Used 
 HTML5, CSS3
+Bootstrap version 4.5.3 was used to customise the site "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+Font Awesome was used to add in social media symbols to the footer element 
+"https://kit.fontawesome.com/3db2fbda72.js"
+Freepik website was used to download the main image used on pages 
+https://www.freepik.com/photos/gym#referrer=detail&resource=13542789
+
 
 ### Frameworks, Libraries & Programs Used
 https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css https://kit.fontawesome.com/3db2fbda72.js 
@@ -88,9 +94,6 @@ In particular, you should provide all details of the differences between the dep
 •	Different configuration files?
 •	Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
-Credits
-5.	Content
-•	The text for section Y was copied from the Wikipedia article Z
 
 ## Media 
 The jumbotron image used on the homepage and additional pages: membership, about, was downloaded from freepik site. 
@@ -101,28 +104,27 @@ https://www.freepik.com/free-photo/strong-wet-woman-posing-during-jump_13542789.
 I would like to thank the code institute and my mentor @Narender Singh
 
 ## Features
+The project website has three pages; Index/Home page, About Us page & Membership page. 
+The index page contains a jumbotron to market new customers as you enter the website. 
+The call out button 'join today' links to the membership page where further information of membership packages can be obtained.
+The membership options page offers three packages to choose from, options are displayed in a card format. 
+
+The Index page also provides a high level summary of what the gym provides. Each heading and description links to a more details about us page that further discusses the features of the gym.  
+
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-6.	Existing Features
-•	Feature 1 - allows users X to achieve Y, by having them fill out Z
-•	...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-7.	Features Left to Implement
-•	Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-•	JQuery
-o	The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-1.	Contact form:
-i.	Go to the "Contact Us" page
-ii.	Try to submit the empty form and verify that an error message about the required fields appears
-iii.	Try to submit the form with an invalid email address and verify that a relevant error message appears
-iv.	Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+## Features Left to Implement
+The project was approached as a two phase process. Firstly, provide joiner information to new customers and secondly, inform existing members of services on offer. 
+The first phase of the project was implemented with phase 2 plans as follows;
+
+### Phase 2
+Current members logon page. Provide class information and online booking system. 
+For membership options link to a payment process to accept membership payments online. 
+
+
+## Testing
+The site was regularly tested to ensure all elements of the website were working. 
+The site has a number of additional href components. Testing was done to ensure these links were consistently working throughout the development process. 
+The gitpod browser options provided visual updates to this affect. 
+
 
