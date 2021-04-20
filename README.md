@@ -18,15 +18,15 @@ a.	As a site owner, I want to provide information to potential new customers on 
 b.	As a site owner, I want to ensure I am effectively marketing the gym
 c.	As a site owner, I want to generate business via the website enticing new customers to join 
 d.	As a site owner, I want to provide services to members
-2.	First Time Visitor Goals 
 
+2.	First Time Visitor Goals 
 a.	As a first time user, I want to easily navigate the site to obtain relevant information. 
 b.	As a first time user,  I want to understand the services and products the gym has to offer 
 c.	As a first time user, I want to know how to retrieve key information about the gym
 d.	As a first time user, I want to learn of other users experiences and reviews of the facilities 
 e.	As a first time user I want to know how to become a member 
-3.	Returning Visitor Goals 
 
+3.	Returning Visitor Goals 
 a.	As a returning visitor, I want to further explore information and knowledge of the gym 
 b.	As a returning visitor, I want to learn in more details programs and classes available 
 c.	As a returning visitor, I want to understand the various membership options 
@@ -100,9 +100,6 @@ The jumbotron image used on the homepage and additional pages: membership, about
 https://www.freepik.com/free-photo/strong-wet-woman-posing-during-jump_13542789.htm#page=1&query=gym&position=5
 
 
-## Acknowledgements 
-I would like to thank the code institute and my mentor @Narender Singh
-
 ## Features
 The project website has three pages; Index/Home page, About Us page & Membership page. 
 The index page contains a jumbotron to market new customers as you enter the website. 
@@ -121,10 +118,34 @@ The first phase of the project was implemented with phase 2 plans as follows;
 Current members logon page. Provide class information and online booking system. 
 For membership options link to a payment process to accept membership payments online. 
 
-
 ## Testing
+
+### W3C Markup Validator 
+The W3C Markup validator and W3C CSS validator services were used to validate all pages of the project. 
+The validator checked for code and syntax errors and were corrected accordingly. 
+The validator results returned passed validation tests
+
 The site was regularly tested to ensure all elements of the website were working. 
 The site has a number of additional href components. Testing was done to ensure these links were consistently working throughout the development process. 
 The gitpod browser options provided visual updates to this affect. 
 
+### Testing User Stories from User Experience (UX) Section
+
+### First Time Visitor Goals
+Entering the site, first time users are presented with clear navigation and linkage to all site pages. 
+The call to action button is clearly displayed for the first time user to action or further information is below the jumbotron to allow the first time user obtain more information. 
+
+### Site Owner 
+The site owner has achieved the marketing elemeent of using the project to market the website.
+
+### Members Goals 
+The members can easily retrieve information on the services the gym provides. 
+
+## GitHub Pages
+The project was deployed to GitHub Pages
+Log in to GitHub and locate the GitHub Repository
+Links provided through project submission
+
+## Acknowledgements 
+I would like to thank the code institute and my mentor @Narender Singh
 
